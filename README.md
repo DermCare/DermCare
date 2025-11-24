@@ -46,3 +46,7 @@ DermCare is a capstone project focused on developing an AI-powered tool to assis
 ### Application Demo
 
 [https://bit.ly/DemoDermCare](https://bit.ly/DemoDermCare)
+
+### Pitch Deck Presentation
+
+[Pitch Deck Presentation](https://www.canva.com/design/DAGH6rHjOI4/K-jefhA542NDbi6qZCxR7w/edit)
